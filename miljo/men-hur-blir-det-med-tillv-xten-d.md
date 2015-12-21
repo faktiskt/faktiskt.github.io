@@ -1,9 +1,10 @@
 ---
 layout: post
 published: true
-title: "Men hur blir det med tillväxten då?"
+title: "\"Men hur blir det med tillväxten då?\""
 sort: 0
 ---
+
 
 
 Ja, det är en jättebra fråga. Och därför jätteviktig att diskutera och forska kring. Någon på internet gjorde en [kort film](https://www.youtube.com/watch?v=Sqwd_u6HkMo "tillväxt hamstern") som på ett tydligt sätt formulerar ett av problemen med tillväxt.
