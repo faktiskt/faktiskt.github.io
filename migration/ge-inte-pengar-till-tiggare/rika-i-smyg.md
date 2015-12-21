@@ -1,9 +1,10 @@
 ---
 layout: post
 published: true
-title: "\"Men då... är de väl typ ”rika i smyg” och kör Merca å så?\""
+title: "\"Men dom tjänar väl rätt bra?\""
 sort: 2
 ---
+
 
 
 
