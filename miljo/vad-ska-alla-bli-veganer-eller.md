@@ -1,9 +1,10 @@
 ---
 layout: post
 published: true
-title: "Vadå, ska alla bli veganer eller?"
+title: "\"Vadå, ska alla bli veganer eller?\""
 sort: 0
 ---
+
 
 
 Alla gör ju som de vill. Men för den som vill göra en STOR insats för klimatet följer några inspirerande siffror: 
