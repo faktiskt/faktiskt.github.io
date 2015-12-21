@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Jo, men de betalar väl nån för platserna där de tigger?"
+title: "\"Jo, men de betalar väl nån för platserna där de tigger?\""
 sort: 1
 ---
 
