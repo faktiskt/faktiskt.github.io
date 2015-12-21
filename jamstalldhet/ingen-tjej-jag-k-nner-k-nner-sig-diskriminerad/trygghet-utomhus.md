@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Trygghet utomhus
+title: (O)trygghet utomhus
 sort: 1
 ---
 
