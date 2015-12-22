@@ -6,7 +6,7 @@ sort: 3
 ---
 
 
-Här har vi några dyra exempel:
+Här har vi två dyra exempel:
 
 [DN:s granskning](http://www.dn.se/ekonomi/utforsaljningar-med-miljonrabatt/) av stadens avknoppningar 2008 visar att staden sålde förskolor och hemtjänst (som invånarna alltså ägde tillsammans) till anställda för 3,4 miljoner kronor. Idag värderas verksamheterna till minst 81,7 miljoner kronor. En nätt förlust för oss alla på 78,3 miljoner.
 
