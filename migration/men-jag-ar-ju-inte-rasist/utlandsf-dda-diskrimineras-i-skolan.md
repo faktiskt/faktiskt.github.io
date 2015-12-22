@@ -6,7 +6,6 @@ sort: 4
 ---
 
 
-Det verkar som att det finns lite fördomar även bland lärare.
 
 En [studie](https://ezp.sub.su.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=buh&AN=110071015&site=eds-live&scope=site) gjord vid Stockholms Universitet och Handels visar följande:
 - När läraren rättar prov på sina egna elever får eleverna med svensk bakgrund 8% högre poäng än de med utländsk bakgrund (födda utomlands, eller med minst en förälder som är det).
