@@ -12,4 +12,4 @@ Ja, alla kan ringa 112. Men - om vi kollar på hur alla mår, så ser vi att det
 
 Hjärtinfarkt bland kvinnor är dessutom dubbelt så vanligt i Rinkeby som i Vaxholm. 
 
-På [Folkhälsa på karta](http://folkhalsapakarta.se) hittar du fler nedslående exempel.
+På [Folkhälsa på karta](http://folkhalsoguiden.se/amnesomraden/folkhalsoarbete/statistik/folkhalsa-pa-karta/) hittar du fler nedslående exempel.
