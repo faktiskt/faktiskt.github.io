@@ -1,9 +1,10 @@
 ---
 layout: post
 published: true
-title: Stormar kostar
+title: Stormar är dyra
 sort: 2
 ---
+
 
 
 
@@ -13,3 +14,5 @@ Exempel på dyra stormar?
 [Energimyndigheten](https://energimyndigheten.a-w2m.se/Home.mvc?ResourceId=2187) uppskattar de totala kostnaderna för Stormen Grudrun till ungefär 10 miljarder kronor.
 
 Och den amerikanska orkanen Katrina [beräknas](http://www.nbcnews.com/id/9329293/ns/business-eye_on_the_economy/t/how-hurricane-katrinas-costs-are-adding/#.VTtSTWTkfPU) ha kostat mer än 100 miljarder dollar.
+
+Det är ju jättedyrt.
