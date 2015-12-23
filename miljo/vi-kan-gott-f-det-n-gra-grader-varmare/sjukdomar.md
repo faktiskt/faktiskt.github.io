@@ -7,7 +7,7 @@ sort: 2
 
 
 
-Ett varmare klimat ökar också risken för smittspridning. MSB](https://www.msb.se/RibData/Filer/pdf/26173.pdf) pratar om att:
+Ett varmare klimat ökar också risken för smittspridning. [Myndigheten för Samhällsberedskap](https://www.msb.se/RibData/Filer/pdf/26173.pdf) tror att vi ska bereda oss på att:
 
 - Helt nya sjukdomar och sjukdomsbärare kan komma in i landet. 
 
