@@ -12,4 +12,4 @@ Nja, enligt [WWF](http://www.wwf.se/press/pressrum/pressmeddelanden/1580063-livi
 
 "Fast vi är väl på väg åt rätt håll?" Mnja... Enligt [Naturvårdsverket](https://www.naturvardsverket.se/Documents/publikationer6400/978-91-620-6653-6.pdf?pid=14404 "Naturvårdsverket - Hållbara konsumtionsmönster") så har vår totala konsumtion ökat med 45% sedan 1993, räknat i fasta priser. Under samma period har våra koldioxidutsläpp ökat med 17%. 
 
-Två bovar verkar vara [kött](/miljo/men-k-tt-r-ju-s-gott/) och [flyg](/miljo/men-jag-m-ste-v-l-inte-sluta-flyga/). Här kanske det finns något att göra.
+"Men hur kan det blir så? Med all pappersinsamling och EKO-mjölk och allt vad det är?" Ja, två centrala bovar verkar vara [kött](/miljo/men-k-tt-r-ju-s-gott/) och [flygplan](/miljo/men-jag-m-ste-v-l-inte-sluta-flyga/). Vi kan börja med att kolla där.
