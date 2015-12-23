@@ -16,4 +16,4 @@ Jämförelse? För att producera _all_ mat åt en person under ett _helt år_ (m
 ”Men flygplanen blir ju modernare och släpper ut mindre och så”. Ja, allt tyder på det. Men vi flyger betydligt mycket mer. Enligt 
 [Naturvårdsverket](https://www.naturvardsverket.se/Documents/publikationer6400/978-91-620-6653-6.pdf?pid=14404 "utsläpp flyg koldioxid ") har utsläppen från vårt flygande _dubblerats_ under de senaste tjugo åren. Och den trenden ser inte ut att vända.
 
-Summering: En vecka i Phuket kan alltså resursmässigt vara lika krävande som  en människas matkonsumtion under typ ett år. I en värld där både klimathot och svält är faktum. Trevlig resa?
+Summering: En vecka i Phuket kan alltså resursmässigt vara lika krävande som  en människas matkonsumtion under typ ett år. I en värld där både klimathot och svält är faktum. Trevlig resa!
