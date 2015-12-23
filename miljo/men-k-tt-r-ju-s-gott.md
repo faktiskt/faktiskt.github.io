@@ -9,7 +9,7 @@ sort: 0
 
 
 Eftersmaken är inte lika smarrig. Enligt [Världsnaturfonden](http://www.wwf.se/vrt-arbete/klimat/min-vardag/artikelarkiv/1517751-min-vardag-glm-snabba-duschar-spara-vatten-p-riktigt "Vatten kött")
-går det åt 16 000 liter vatten för att producera _ett_ kilo nötkött. (Och för att producera _en_ liter mjölk krävs totalt _tusen_ liter vatten enligt [Water Footprint](http://waterfootprint.org/media/downloads/Hoekstra-2008-WaterfootprintFood.pdf).
+går det åt 16 000 liter vatten för att producera _ett_ kilo nötkött. (Och för att producera _en_ liter mjölk krävs totalt _tusen_ liter vatten enligt [Water Footprint](http://waterfootprint.org/media/downloads/Hoekstra-2008-WaterfootprintFood.pdf)).
 
 Med [SVTs kalkylator](http://pejl.svt.se/kottkalkylator/ "SVT Köttkalkylator") kan man räkna ut hur mycket utsläpp ens köttkonsumtion motsvarar i bilkörning. Till exempel ger ett kilo nötfärs upphov till lika mycket utsläpp som 15,5 mils bilkörning. Så att cykla till affären är ingen garanti för gott miljösamvete; lägger du ett kilo nötkött i korgen är det alltså lika illa som att du tagit bilen från Stockholm till Norrköping för att handla.
 
