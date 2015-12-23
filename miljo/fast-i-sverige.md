@@ -11,4 +11,4 @@ Nja, enligt [WWF](http://www.wwf.se/press/pressrum/pressmeddelanden/1580063-livi
 
 Utvecklingen över tid då? Enligt [Naturvårdsverket](https://www.naturvardsverket.se/Documents/publikationer6400/978-91-620-6653-6.pdf?pid=14404 "Naturvårdsverket - Hållbara konsumtionsmönster") så har vår totala konsumtion ökat med 45% sedan 1993, räknat i fasta priser. Under samma period har våra koldioxidutsläpp ökat med 17%. 
 
-Två tydliga bovar verkar vara [Kött](/miljo/men-k-tt-r-ju-s-gott/) och [flyg](/miljo/men-jag-m-ste-v-l-inte-sluta-flyga/). Här kanske det finns något att göra.
+Två bovar verkar vara [kött](/miljo/men-k-tt-r-ju-s-gott/) och [flyg](/miljo/men-jag-m-ste-v-l-inte-sluta-flyga/). Här kanske det finns något att göra.
