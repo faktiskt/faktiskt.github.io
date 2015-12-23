@@ -8,14 +8,15 @@ sort: 0
 
 
 
-Mnja... "Forskarna" verkar själva ha ”forskat” fram att det knappast går att "forska" sig ur krisen. Enligt Naturvårdsverkets rapport [Hållbara Konsumtionsmönster](https://www.naturvardsverket.se/Documents/publikationer6400/978-91-620-6653-6.pdf?pid=14404) ser det kortfattat ut så här:
 
-(Ha överseende med att bilden för stor och det saknas linjer i den. En mer pedagogisk bild är påväg.)
+Mnja... "Forskarna" verkar själva ha ”forskat” fram att vi inte kan "forska" oss ur krisen. Enligt Naturvårdsverkets rapport [Hållbara Konsumtionsmönster](https://www.naturvardsverket.se/Documents/publikationer6400/978-91-620-6653-6.pdf?pid=14404) ser det kortfattat ut så här:
+
+(En mer pedagogisk bild är på väg.)
 
 ![Scenarier för växthusgasutsläpp från privat konsumtion i Sverige]({{site.baseurl}}/images/2gradersmålet.jpg)
 
-A - vi gör inget.
+A = Vi brakar på och skiter i vilket.
 
-B - forskningen utvecklas i samma takt som hittills.
+B = Forskningen utvecklas i samma takt som hittills.
 
-2 graders målet - hit måste vi.
+2-gradersmålet = hit måste vi för att undvika kaoz.
