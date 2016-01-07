@@ -12,7 +12,8 @@ layout: page
   {% capture search_prefix %}:{{url_prefix}}{% endcapture %}
 
     <ul class="pages">
-    {% for subpage in site.pages %}
+    {% assign sorted_pages = site.pages | sort: 'sort' %}
+    {% for subpage in sorted_pages %}
       {% capture subpage_depth %}{{ subpage.url | split: '/' | size }}{% endcapture %}
       {% capture subpage_key %}:{{ subpage.url }}{% endcapture %}
       {% if subpage_key contains search_prefix and subpage.url != page.url and search_depth == subpage_depth %}

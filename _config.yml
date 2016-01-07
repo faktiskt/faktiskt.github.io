@@ -2,7 +2,7 @@ title: Faktiskt
 email: faktiskt@faktiskt.com
 description: "Här hittar du fakta för att bemöta felaktiga föreställningar om jämställdhet, miljö, migration och ekonomi."
 baseurl: ""
-url: "http://jamkatt.github.io/faktiskt"
+url: "http://faktiskt.com/"
 twitter_username: faktiskt
 github_username:  faktiskt
 
@@ -10,9 +10,9 @@ permalink: pretty
 markdown: rdiscount
 
 prose:
-  siteurl: 'http://faktiskt.github.io/'
+  siteurl: 'http://faktiskt.com/'
   media: 'images'
-  relativeLinks: 'http://faktiskt.github.io/links.jsonp'
+  relativeLinks: 'http://faktiskt.com/links.jsonp'
   ignore:
     - .gitignore
     - _config.yml
@@ -37,6 +37,11 @@ prose:
           element: "text"
           label: "Titel"
           value: ""
+      - name: "sort"
+        field:
+          element: "number"
+          label: "Sortering"
+          value: ""
     jamstalldhet:
       - name: "layout"
         field:
@@ -52,6 +57,11 @@ prose:
         field:
           element: "text"
           label: "Titel"
+          value: ""
+      - name: "sort"
+        field:
+          element: "number"
+          label: "Sortering"
           value: ""
     migration:
       - name: "layout"
@@ -69,6 +79,11 @@ prose:
           element: "text"
           label: "Titel"
           value: ""
+      - name: "sort"
+        field:
+          element: "number"
+          label: "Sortering"
+          value: ""
     miljo:
       - name: "layout"
         field:
@@ -84,4 +99,9 @@ prose:
         field:
           element: "text"
           label: "Titel"
+          value: ""
+      - name: "sort"
+        field:
+          element: "number"
+          label: "Sortering"
           value: ""

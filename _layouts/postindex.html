@@ -12,16 +12,17 @@ layout: post
     {% capture search_depth %}{{ page.url | prepend: '/' | split: '/' | size }}{% endcapture %}
     {% capture search_prefix %}:{{url_prefix}}{% endcapture %}
 
-    <ul class="pages">
-    {% for subpage in site.pages %}
-      {% capture subpage_depth %}{{ subpage.url | split: '/' | size }}{% endcapture %}
-      {% capture subpage_key %}:{{ subpage.url }}{% endcapture %}
-      {% if subpage_key contains search_prefix and subpage.url != page.url and search_depth == subpage_depth %}
-        <li>
-          <a href="{{ subpage.url | remove_first:'index.html' }}">{{ subpage.title }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-    </ul>
-  </div>
+  <ul class="pages">
+  {% assign sorted_pages = site.pages | sort: 'sort' %}
+  {% for subpage in sorted_pages %}
+    {% capture subpage_depth %}{{ subpage.url | split: '/' | size }}{% endcapture %}
+    {% capture subpage_key %}:{{ subpage.url }}{% endcapture %}
+    {% if subpage_key contains search_prefix and subpage.url != page.url and search_depth == subpage_depth %}
+      <li>
+        <a href="{{ subpage.url | remove_first:'index.html' }}">{{ subpage.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</div>
 </div><!--row-->
