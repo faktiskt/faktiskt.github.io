@@ -58,16 +58,12 @@ a:visited {
 }
 .btn-custom {
 	border: 1px solid #e0e0e0;
-
 	background: #323232;
-
 	font-size: 18px;
 }
 .btn-custom:hover {
-
 	background: linear-gradient(#fbfbfb, #f7f7f7);
 	color: #323232;
-	
 }
 .btn-big {
 	font-family: "Times New Roman", serif;
@@ -85,9 +81,7 @@ a:visited {
 .main-btn a {
 	vertical-align: middle;
 	text-decoration: none;
-
 	color: #f0f0f0;
-
 	width: 100%;
 }
 .nav-link {
@@ -109,4 +103,12 @@ a:visited {
 .form-control {
 	border: 1px solid #323232;
 	background: #fbfbfb;
+}
+@media all and (max-width: 768px) {
+	ul{
+		padding-left: 30px;
+	}
+	.pages {
+		padding-left: 0px;
+	}
 }
