@@ -1,81 +1,192 @@
+.container-fluid {
+	max-width: 997px;
+	margin: 0 auto;
+}
 body {
-	font-family: "Helvetica", "Open sans", sans-serif;
-	background-color: #fbfbfb;
+	/*font-family: "Helvetica", "Open sans", sans-serif;*/
+	font-family: "Times new roman", serif;
+	font-size: 16px;
 }
-h1 {
+h1, h2, h3, h4, h5, h6 {
 	font-family: "Times New Roman", serif;
-	font-size: 55px;
-	font-weight: 700;
-	margin-bottom: 15px;
-	color: #323232;
+	color: #202020;
 }
+
 a {
-	color: tomato;
+	color: #ff0000;
+	text-decoration: underline;
 }
-#main-header {
-	letter-spacing: -1px;
-	font-weight: 500;
-}
-a:focus, a:hover {
+a[href*="faktiskt"] {
+	color: #000;
 	text-decoration: none;
 }
 a:visited {
-	color: tomato;
+	color: initial;
 }
-.post-header-custom h1 {
-	letter-spacing: 0;
-	font-size: 42px;
-	line-height: 1;
-	font-weight: 300;
-	margin-bottom: 25px;
+@media screen and (min-width: 768px ) {
+	
+	h1, h2 {
+		margin: 3rem 0 2rem 0;
+	}
 }
+
+hr {
+	border-color: #202020;
+}
+
+.cntnt a:after {
+	font-family: FontAwesome;
+	font-size: 0.6em;
+	content: "  \00a0 \f054"; /**/
+	vertical-align: middle;
+
+}
+
+
+
+a:focus, a:hover {
+	text-decoration: none;
+}
+
+div {
+	/*outline: 1px solid hotpink;*/
+}
+.post-header h1 {
+	letter-spacing: initial;
+}
+
+.custom-btn {
+	font-size: 1.6em;
+	border: none;
+	background: #202020;
+	font-family: "Times New Roman", serif;
+	padding: 0.1em 0.2em 0.1em 0.2em;
+	width: 100%;
+}
+.custom-btn:hover {
+	background: linear-gradient(#fbfbfb, #f7f7f7);
+	outline: 1px solid #000;
+	color: #202020;
+}
+.custom-btn  {
+	color: #f0f0f0;
+	font-style: italic;
+}
+
+.home-link {
+	font-size: 1.8em;
+	font-style: italic;
+	line-height: 33px;
+	vertical-align:;
+}
+@media screen and (max-width: 768px) {
+	.mobile-header {
+		padding: 0.3em;
+	}
+	/*.mobile-toggle a:before {
+		font-family: FontAwesome;
+		font-size: 0.4em;
+		content: "  \f1db \00a0 \00a0 "; 
+		vertical-align: middle;
+	}*/
+	nav a {
+		display: block;
+		padding: 0.1em 0 0.2em 0;
+		font-size: 1.2em;
+		letter-spacing: 1.5px
+	}
+	.mobile-toggle a:before, .mobile-toggle a:after {
+		content: ;
+	}
+}
+	.mobile-toggle {
+		display: none;
+		clear: both;
+		margin-bottom: 5px;
+		padding: 1em;
+		position: relative;
+		z-index: 99;
+		
+	}
+
+.btn-cnt div:first-child { /* Targets nested col's*/
+	padding: 0.1em 0.1em 0.1em 0;
+}
+.btn-cnt div:last-child { /* Targets nested col's*/
+	padding: 0.1em 0 0.1em 0.1em;
+}
+
 .site-bar .site-title {
 	margin: 0 auto;
 	padding-left: 15px;
 }
-@media all and (max-width: 600px) {
+
+
+@media all and (max-width: 768px) {
 	.site-nav {
 		position: relative;
 		top: 9.5px;
 		padding: 0;
+		background-color: transparent;
 	}
-	.site-nav .menu-icon {
-		float: right;
+
+	.menu-icon svg {
+		height: 33px;
+		padding: 3px;
+	}
+	path {
+		fill: #202020;
+
 	}
 }
 .site-header {
 	border: none;
-	background: #fbfbfb;
+}
+.site-header, .mobile-header {
+	padding-top: 1em;
 }
 .main-block {
 	margin-top: 20px;
 	margin-bottom: 50px;
 }
 .main-block p {
-	font-size: 22px;
-	font-family: "Times New Roman", serif;
+	font-size: 2.5rem;
+	/*font-family: "Times New Roman", serif;*/
 	line-height: 30px;
 	letter-spacing: -0.5px;
 }
+.main-header {
+	letter-spacing: -1px;
+	font-weight: 500;
+	font-size: 55px;
+	margin-bottom: 3rem;
+
+}
+/*
 .btn-custom {
 	border: 1px solid #e0e0e0;
-	background: #323232;
+	background: #202020;
 	font-size: 18px;
+
 }
+
 .btn-custom:hover {
 	background: linear-gradient(#fbfbfb, #f7f7f7);
-	color: #323232;
+	color: #202020;
 }
+
 .btn-big {
 	font-family: "Times New Roman", serif;
 	font-size: 25px;
 	font-style: italic;
 }
+
 @media all and (max-width: 500px) {
 	.btn-big {
 		font-size: 20px;
 	}
 }
+
 .main-btn {
 	padding: 0;
 }
@@ -85,24 +196,28 @@ a:visited {
 	color: #f0f0f0;
 	width: 100%;
 }
+*/
 .nav-link {
 	font-weight: 600;
 }
 .site-title, .site-title:hover {
-	font-style: normal;
+	/*font-style: normal;
 	font-family: "Times New Roman", serif;
 	font-size: 28px;
-	letter-spacing: 0;
+	letter-spacing: 0;*/
 }
 .index li a {
 	font-style: normal;
 }
+
+
 .index li a:hover {
-	background-color: #323232;
+	background-color: #202020;
 	color: white;
 }
+
 .form-control {
-	border: 1px solid #323232;
+	border: 1px solid #202020;
 	background: #fbfbfb;
 }
 @media all and (max-width: 768px) {
@@ -115,4 +230,15 @@ a:visited {
 }
 img {
 	width: 65%;
+}
+/* contact form */
+
+[type=submit] {
+	color: #fff;
+}
+.cstm-frm-cntrl {
+	width: 100%;
+	padding: 6px 12px;
+	border: 1px solid #ccc;
+	display: table-cell;
 }

@@ -5,26 +5,38 @@ published: true
 
 
 <div class="row">
-    <div class="col-xs-12 text-center main-block">
-      <h1 id="main-header">Faktiskt</h1>
-      <p>Hej och välkommen!<br> Här har vi samlat fakta för att bemöta vanliga myter om:</p>
-    </div>
+  <div class="col-xs-10 col-xs-offset-1 text-center main-block">
+    <h1 class="main-header">Faktiskt</h1>
+    <p>Hej och välkommen!<br> Här hittar du fakta för att bemöta vanliga föreställningar om:</p>
   </div>
+</div>
+
+<div class="row start-btns">
+  <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
+    <div class="row btn-cnt">
+      <div class="col-xs-8">
+        <a href="{{ "/jamstalldhet" | prepend: site.baseurl }}">
+          <button class="custom-btn">Jämställdhet</button>
+        </a>
+      </div>
+      <div class="col-xs-4">
+        <a href="{{ "/miljo" | prepend: site.baseurl }}">
+          <button class="custom-btn">Miljö</button>
+        </a>
+      </div>
+    </div>
   
-  <div class="row btn-row">
-
-    <div class="col-xs-6 col-sm-3 col-sm-offset-3 col-md-2 col-md-offset-4 main-btn">
-
-      <a class="btn btn-custom btn-big btn-block" href="{{ "/jamstalldhet" | prepend: site.baseurl }}">Jämställdhet</a>
-
+    <div class="row btn-cnt">
+      <div class="col-xs-5">
+        <a href="{{ "/ekonomi" | prepend: site.baseurl }}">
+          <button class="custom-btn">Ekonomi</button>
+        </a>
+      </div>
+      <div class="col-xs-7">
+        <a href="{{ "/migration" | prepend: site.baseurl }}">
+          <button class="custom-btn">Migration</button>
+        </a>
+      </div>
     </div>
-    
-    <div class="col-xs-6 col-sm-3 col-md-2 text-center main-btn">
-      <a class="btn btn-custom btn-big btn-block" href="{{ "/ekonomi" | prepend: site.baseurl }}">Ekonomi</a>
-    </div>
-  </div><!--row-->
-
-  <div class="row btn-row">
-    <div class="col-xs-6 col-sm-3 col-sm-offset-3 col-md-2 col-md-offset-4 text-center main-btn"><a class="btn btn-custom btn-big btn-block" href="{{ "/migration" | prepend: site.baseurl }}">Migration</a></div>
-    <div class="col-xs-6 col-sm-3 col-md-2 text-center main-btn"><a class="btn btn-custom btn-big btn-block" href="{{ "/miljo" | prepend: site.baseurl }}">Miljö</a></div>
   </div>
+</div>
