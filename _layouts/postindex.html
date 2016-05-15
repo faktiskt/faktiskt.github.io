@@ -6,24 +6,23 @@ breadcrumb: Foo
 <div class="row">
 
   <div class="col-xs-12 post-index index">
-<!-- post-index - 'tredje steg'  länk-sidor som följer på en page och som länka till flera posts -->
     {{ content }}
 
     {% capture url_prefix %}{{ page.url | remove_first: 'index.html' }}{% endcapture %}
     {% capture search_depth %}{{ page.url | prepend: '/' | split: '/' | size }}{% endcapture %}
     {% capture search_prefix %}:{{url_prefix}}{% endcapture %}
 
-  <ul class="pages cntnt">
-  {% assign sorted_pages = site.pages | sort: 'sort' %}
-  {% for subpage in sorted_pages %}
-    {% capture subpage_depth %}{{ subpage.url | split: '/' | size }}{% endcapture %}
-    {% capture subpage_key %}:{{ subpage.url }}{% endcapture %}
-    {% if subpage_key contains search_prefix and subpage.url != page.url and search_depth == subpage_depth %}
-      <li>
-        <a href="{{ subpage.url | remove_first:'index.html' }}">{{ subpage.title }}</a>
-      </li>
-    {% endif %}
-  {% endfor %}
+    <ul class="pages cntnt">
+    {% assign sorted_pages = site.pages | sort: 'sort' %}
+    {% for subpage in sorted_pages %}
+      {% capture subpage_depth %}{{ subpage.url | split: '/' | size }}{% endcapture %}
+      {% capture subpage_key %}:{{ subpage.url }}{% endcapture %}
+      {% if subpage_key contains search_prefix and subpage.url != page.url and search_depth == subpage_depth %}
+        <li>
+          <a href="{{ subpage.url | remove_first:'index.html' }}">{{ subpage.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
   </ul>
 </div>
 </div><!--row-->

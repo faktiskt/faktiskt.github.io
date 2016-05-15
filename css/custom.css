@@ -3,7 +3,6 @@
 	margin: 0 auto;
 }
 body {
-	/*font-family: "Helvetica", "Open sans", sans-serif;*/
 	font-family: "Times new roman", serif;
 	font-size: 16px;
 }
@@ -11,7 +10,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: "Times New Roman", serif;
 	color: #202020;
 }
-
+/* Initially targets all links, eventually styles only off-site href's */
 a {
 	color: #cc1f00;
 	text-decoration: underline;
@@ -23,43 +22,28 @@ a:focus, a:hover {
 	text-decoration: none;
 	color: #cc1f00;
 }
-
+/* Targets all on-site links */
 a[href^="/"] {
 	color: #000;
 	text-decoration: none;
 }
-
-
-@media screen and (min-width: 768px ) {
-	
+@media screen and (min-width: 767px ) {
 	h1, h2 {
 		margin: 3rem 0 2rem 0;
 	}
 }
-
 hr {
 	border-color: #202020;
 }
-
 .cntnt a:after {
 	font-family: FontAwesome;
 	font-size: 0.6em;
 	content: "  \00a0 \f054"; /**/
 	vertical-align: middle;
-
-}
-
-
-
-
-
-div {
-	/*outline: 1px solid hotpink;*/
 }
 .post-header h1 {
 	letter-spacing: initial;
 }
-
 .custom-btn {
 	font-size: 1.6em;
 	border: none;
@@ -77,23 +61,16 @@ div {
 	color: #f0f0f0;
 	font-style: italic;
 }
-
 .home-link {
 	font-size: 1.8em;
 	font-style: italic;
 	line-height: 33px;
 	vertical-align:;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 	.mobile-header {
 		padding: 0.3em;
 	}
-	/*.mobile-toggle a:before {
-		font-family: FontAwesome;
-		font-size: 0.4em;
-		content: "  \f1db \00a0 \00a0 "; 
-		vertical-align: middle;
-	}*/
 	nav a {
 		display: block;
 		padding: 0.1em 0 0.2em 0;
@@ -104,44 +81,37 @@ div {
 		content: ;
 	}
 }
-	.mobile-toggle {
-		display: none;
-		clear: both;
-		margin-bottom: 5px;
-		padding: 1em;
-		position: relative;
-		z-index: 99;
-		
-	}
-
+.mobile-toggle {
+	display: none;
+	clear: both;
+	margin-bottom: 5px;
+	padding: 1em;
+	position: relative;
+	z-index: 99;
+}
 .btn-cnt div:first-child { /* Targets nested col's*/
 	padding: 0.1em 0.1em 0.1em 0;
 }
 .btn-cnt div:last-child { /* Targets nested col's*/
 	padding: 0.1em 0 0.1em 0.1em;
 }
-
 .site-bar .site-title {
 	margin: 0 auto;
 	padding-left: 15px;
 }
-
-
-@media all and (max-width: 768px) {
+@media all and (max-width: 767px) {
 	.site-nav {
 		position: relative;
 		top: 9.5px;
 		padding: 0;
 		background-color: transparent;
 	}
-
 	.menu-icon svg {
 		height: 33px;
 		padding: 3px;
 	}
 	path {
 		fill: #202020;
-
 	}
 }
 .site-header {
@@ -154,14 +124,13 @@ div {
 	margin-top: 20px;
 	margin-bottom: 50px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 	.main-block {
 		margin-top: 0;
 	}
 }
 .main-block p {
 	font-size: 2.5rem;
-	/*font-family: "Times New Roman", serif;*/
 	line-height: 30px;
 	letter-spacing: -0.5px;
 }
@@ -170,85 +139,23 @@ div {
 	font-weight: 500;
 	font-size: 55px;
 	margin-bottom: 3rem;
-
 }
 .start-btns {
 	padding-bottom: 1rem;
 }
-/*
-.btn-custom {
-	border: 1px solid #e0e0e0;
-	background: #202020;
-	font-size: 18px;
-
-}
-
-.btn-custom:hover {
-	background: linear-gradient(#fbfbfb, #f7f7f7);
-	color: #202020;
-}
-
-.btn-big {
-	font-family: "Times New Roman", serif;
-	font-size: 25px;
-	font-style: italic;
-}
-
-@media all and (max-width: 500px) {
-	.btn-big {
-		font-size: 20px;
-	}
-}
-
-.main-btn {
-	padding: 0;
-}
-.main-btn a {
-	vertical-align: middle;
-	text-decoration: none;
-	color: #f0f0f0;
-	width: 100%;
-}
-*/
 .nav-link {
 	font-weight: 600;
-}
-.site-title, .site-title:hover {
-	/*font-style: normal;
-	font-family: "Times New Roman", serif;
-	font-size: 28px;
-	letter-spacing: 0;*/
 }
 .index li a {
 	font-style: normal;
 }
-
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 767px) {
 	.index li a:hover {
 		background-color: #202020;
 		color: white;
 	}
-
 }
-@media screen and (max-width: 768px) {
-
-}
-/*
-@media screen and (max-width: 768px) {
-	.index li a:active {
-		background-color: #202020;
-		color: white;
-	}
-
-}
-*/
-/*
-.form-control {
-	border: 1px solid #202020;
-	background: #fbfbfb;
-}
-*/
-@media all and (max-width: 768px) {
+@media all and (max-width: 767px) {
 	ul{
 		padding-left: 30px;
 	}
@@ -259,15 +166,11 @@ div {
 img {
 	width: 65%;
 }
-/* contact form */
 
-[type=submit] {
-	color: #fff;
-}
+/* contact form */
 .cstm-frm-cntrl {
 	width: 100%;
 	padding: 6px 12px;
 	border: 1px solid #ccc;
 	display: table-cell;
 }
-
