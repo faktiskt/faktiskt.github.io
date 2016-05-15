@@ -13,17 +13,23 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-	color: #ff0000;
+	color: #cc1f00;
 	text-decoration: underline;
 }
+a:visited {
+	color: #cc1f00;
+}
+a:focus, a:hover {
+	text-decoration: none;
+	color: #cc1f00;
+}
 
-a[href*="faktiskt"] {
+a[href^="/"] {
 	color: #000;
 	text-decoration: none !important;
 }
-a:visited {
-	color: initial;
-}
+
+
 @media screen and (min-width: 768px ) {
 	
 	h1, h2 {
@@ -45,9 +51,7 @@ hr {
 
 
 
-a:focus, a:hover {
-	text-decoration: none;
-}
+
 
 div {
 	/*outline: 1px solid hotpink;*/
@@ -150,6 +154,11 @@ div {
 	margin-top: 20px;
 	margin-bottom: 50px;
 }
+@media screen and (max-width: 768px) {
+	.main-block {
+		margin-top: 0;
+	}
+}
 .main-block p {
 	font-size: 2.5rem;
 	/*font-family: "Times New Roman", serif;*/
@@ -162,6 +171,9 @@ div {
 	font-size: 55px;
 	margin-bottom: 3rem;
 
+}
+.start-btns {
+	padding-bottom: 1rem;
 }
 /*
 .btn-custom {
