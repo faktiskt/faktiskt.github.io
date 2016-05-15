@@ -44,7 +44,7 @@
 </ol>
 -->
 
-<!--
+<!-- Nästan ....
 {% capture url_parts %} {{ page.url | remove: "/index.html" | replace:'/'," " }}{% endcapture %}
 {% capture num_parts %}{{ url_parts | number_of_words | minus: 1 }}{% endcapture %}
 {% assign previous="" %}
@@ -66,7 +66,7 @@
 </ol>
 -->
 
-<!--
+<!-- Funkar men inte snygg
 <ul class="breadcrumb">
                 <li><a href="#"><i class="icon-home"></i>Home</a> </li>
                 {% assign crumbs = page.url | split: '/' %}
@@ -79,7 +79,7 @@
             </ul>
                             <script>$(".breadcrumb li").last().addClass('active');</script>
 -->
-<!--
+<!-- Missar ett steg om det blir för långt...
 <ol class="pull-right breadcrumb">
             <li><a href="/">Home</a></li>
             {% assign crumbs = page.url | split: '/' %}
@@ -101,7 +101,7 @@
             {% endfor %}
         </ol>
 -->
-<!--
+<!-- En level deep endast
 <ol class="breadcrumb">
 <li><a href="{{ site.baseurl }}/">Home</a></li>
 {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %}
@@ -125,7 +125,9 @@
 
 -->
 
-<!--
+
+<!-- Funkade en gång men inte mer ...?
+
 {% comment %}
 *  
 *  http://stackoverflow.com/questions/9612235/what-are-some-good-ways-to-implement-breadcrumbs-on-a-jekyll-site
