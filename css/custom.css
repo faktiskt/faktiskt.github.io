@@ -167,7 +167,9 @@ hr {
 img {
 	width: 65%;
 }
-
+.input-group {
+	width: 100%;
+}
 /* contact form */
 .cstm-frm-cntrl {
 	-webkit-appearance: none;
