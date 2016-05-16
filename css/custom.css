@@ -51,6 +51,7 @@ hr {
 	font-family: "Times New Roman", serif;
 	padding: 0.1em 0.2em 0.1em 0.2em;
 	width: 100%;
+	border-radius: 0;
 }
 .custom-btn:hover {
 	background: linear-gradient(#fbfbfb, #f7f7f7);
@@ -173,4 +174,5 @@ img {
 	padding: 6px 12px;
 	border: 1px solid #ccc;
 	display: table-cell;
+	border-radius: 0;
 }
