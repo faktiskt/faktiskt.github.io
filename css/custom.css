@@ -48,6 +48,9 @@ hr {
 	margin-left: 0;
 }
 .custom-btn {
+	-webkit-appearance: none;
+   	-moz-appearance:    none;
+   	appearance:         none;
 	font-size: 1.6em;
 	border: none;
 	background: #202020;
