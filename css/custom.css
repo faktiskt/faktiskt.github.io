@@ -44,6 +44,9 @@ hr {
 .post-header h1 {
 	letter-spacing: initial;
 }
+.post ul {
+	margin-left: 0;
+}
 .custom-btn {
 	font-size: 1.6em;
 	border: none;
@@ -170,7 +173,7 @@ img {
 .input-group {
 	width: 100%;
 }
-/* contact form */
+/* removes inherited styles */
 .cstm-frm-cntrl {
 	-webkit-appearance: none;
    	-moz-appearance:    none;
