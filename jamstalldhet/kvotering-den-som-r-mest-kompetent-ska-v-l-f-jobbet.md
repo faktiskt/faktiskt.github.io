@@ -22,3 +22,5 @@ Den här Amerikanska [studien](http://www.jstor.org/stable/41763373) visar att b
 - Samt "värd ett mentorskap"? Männen 4,7, kvinnorna 4.
 
 Frågor på det?
+
+(Studien genomfördes vid Yale University 2012. Deltagarna skulle bedöma fiktiva personers arbetsansökningar. De fiktiva personerna gavs slumpmässigt manliga och kvinnliga namn för att det skulle gå att se om samma kompetenser bedömdes olika beroende på könet hos den ansökande.)
