@@ -8,4 +8,4 @@ sort: 2
 
 
 
-Av unga kvinnor (16-29) har 28% (_var tredje_) upplevt sexuella trakasserier - jämfört med 7% av männen. För hela befolkningen, alla åldrar: kvinnor 18% och män 6% enligt Arbetsmiljöverkets rapport [Arbetsmiljön 2013](https://www.av.se/globalassets/filer/statistik/arbetsmiljostatistik-arbetsmiljon-2013-rapport-2014-03.pdf).
+Av unga kvinnor (16-29) har ca 19% (var femte) upplevt sexuella trakasserier - jämfört med ca 5% av männen (enl [Arbetsmiljöverket](https://www.av.se/globalassets/filer/statistik/arbetsmiljon-2015/arbetsmiljostatistik-arbetsmiljon-2015-rapport-2016-2.pdf?hl=arbetsmilj%C3%B6n%202015 "Arbetsmiljön 2015")). Det var rätt mycket mindre än i alla andra grupper, men mer än vi orkade hitta...
