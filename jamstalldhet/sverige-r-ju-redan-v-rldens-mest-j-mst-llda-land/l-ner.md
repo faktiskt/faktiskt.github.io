@@ -8,7 +8,7 @@ sort: 1
 
 
 
-Enligt [[SCB]](http://www.scb.se/sv_/Hitta-statistik/Statistik-efter-amne/Levnadsforhallanden/Jamstalldhet/Jamstalldhetsstatistik/12252/12259/Behallare-for-Press/406481/)tjänar kvinnor som grupp ungefär 87 procent av vad männen tjänar.
+Enligt [SCB](http://www.scb.se/sv_/Hitta-statistik/Statistik-efter-amne/Levnadsforhallanden/Jamstalldhet/Jamstalldhetsstatistik/12252/12259/Behallare-for-Press/406481/)tjänar kvinnor som grupp ungefär 87 procent av vad männen tjänar.
 
 "Men lönerna är väl olika för att män och kvinnor gör olika saker, och för att män är typ chefer!?" Ja, [här](/jamstalldhet/sverige-r-ju-redan-v-rldens-mest-j-mst-llda-land/maktpositioner-i-samh-llet/) kan du läsa om att nitton av tjugo chefer fortfarande är män. 
 
