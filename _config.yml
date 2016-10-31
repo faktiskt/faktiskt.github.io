@@ -7,7 +7,6 @@ twitter_username: faktiskt
 github_username:  faktiskt
 
 permalink: pretty
-markdown: rdiscount
 
 prose:
   siteurl: 'http://faktiskt.com/'
