@@ -1,26 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 .container-fluid {
 	max-width: 997px;
 	margin: 0 auto;
 }
 body {
-	font-family: "Times new roman", serif;
+	font-family: "Open Sans", sans-serif;
 	font-size: 16px;
+	background: url(/images/snow.png) #fff middle middle;
+	background-size: cover;
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family: "Times New Roman", serif;
-	color: #202020;
+	font-family: "Open Sans", sans-serif;
+	color: #f32938;
 }
 /* Initially targets all links, eventually styles only off-site href's */
 a {
-	color: #cc1f00;
+	color: #f32938;
 	text-decoration: underline;
 }
 a:visited {
-	color: #cc1f00;
+	color: #8c1820;
 }
 a:focus, a:hover {
 	text-decoration: none;
-	color: #cc1f00;
+	color: #ff0011;
 }
 /* Targets all on-site links */
 a[href^="/"] {
@@ -53,8 +56,8 @@ hr {
    	appearance:         none;
 	font-size: 1.6em;
 	border: none;
-	background: #202020;
-	font-family: "Times New Roman", serif;
+	background: #f32938;
+	font-family: "Open Sans", sans-serif;
 	padding: 0.1em 0.2em 0.1em 0.2em;
 	width: 100%;
 	border-radius: 0;
@@ -62,7 +65,7 @@ hr {
 .custom-btn:hover {
 	background: linear-gradient(#fbfbfb, #f7f7f7);
 	outline: 1px solid #000;
-	color: #202020;
+	color: #f32938;
 }
 .custom-btn  {
 	color: #f0f0f0;
@@ -118,7 +121,7 @@ hr {
 		padding: 3px;
 	}
 	path {
-		fill: #202020;
+		fill: #f32938;
 	}
 }
 .site-header {
@@ -147,6 +150,10 @@ hr {
 	font-size: 55px;
 	margin-bottom: 3rem;
 }
+.main-header img {
+	margin: 0 auto;
+	width: '100%';
+}
 .start-btns {
 	padding-bottom: 1rem;
 }
@@ -158,7 +165,7 @@ hr {
 }
 @media screen and (min-width: 767px) {
 	.index li a:hover {
-		background-color: #202020;
+		background-color: #f32938;
 		color: white;
 	}
 }
