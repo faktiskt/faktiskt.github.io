@@ -13,7 +13,7 @@ Mnja... "Forskarna" verkar själva ha ”forskat” fram att vi inte kan "forska
 
 (En mer pedagogisk bild är på väg.)
 
-![Scenarier för växthusgasutsläpp från privat konsumtion i Sverige]({{site.baseurl}}/images/2gradersmålet.jpg)
+![Scenarier för växthusgasutsläpp från privat konsumtion i Sverige]({{site.baseurl}}/images/2gradersmaalet.jpg)
 
 A = Vi brakar på och skiter i vilket.
 
