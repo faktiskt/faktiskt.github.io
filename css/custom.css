@@ -57,18 +57,18 @@ hr {
 	border: none;
 	background: #f32938;
 	font-family: "Open Sans", sans-serif;
+	font-weight: 700;
 	padding: 0.1em 0.2em 0.1em 0.2em;
 	width: 100%;
 	border-radius: 0;
 }
 .custom-btn:hover {
 	background: linear-gradient(#fbfbfb, #f7f7f7);
-	outline: 1px solid #000;
+	outline: 1px solid #f32938;
 	color: #f32938;
 }
 .custom-btn  {
 	color: #f0f0f0;
-	font-style: italic;
 }
 .home-link {
 	font-size: 1.8em;
