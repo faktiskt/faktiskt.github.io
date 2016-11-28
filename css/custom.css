@@ -1,31 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 .container-fluid {
 	max-width: 997px;
 	margin: 0 auto;
 }
 body {
-	font-family: "Times new roman", serif;
+	font-family: "Open Sans", sans-serif;
 	font-size: 16px;
+	background: url(/images/snow.png) #fff;
+	background-size: 325px 737px;
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family: "Times New Roman", serif;
-	color: #202020;
+	font-family: "Open Sans", sans-serif;
+	color: #f32938;
 }
 /* Initially targets all links, eventually styles only off-site href's */
 a {
-	color: #cc1f00;
-	text-decoration: underline;
+	color: #f32938;
+	font-weight: 700;
 }
 a:visited {
-	color: #cc1f00;
+	color: #8c1820;
 }
 a:focus, a:hover {
 	text-decoration: none;
-	color: #cc1f00;
+	color: #ff0011;
 }
 /* Targets all on-site links */
 a[href^="/"] {
 	color: #000;
-	text-decoration: none;
 }
 @media screen and (min-width: 767px ) {
 	h1, h2 {
@@ -53,20 +55,20 @@ hr {
    	appearance:         none;
 	font-size: 1.6em;
 	border: none;
-	background: #202020;
-	font-family: "Times New Roman", serif;
+	background: #f32938;
+	font-family: "Open Sans", sans-serif;
+	font-weight: 700;
 	padding: 0.1em 0.2em 0.1em 0.2em;
 	width: 100%;
 	border-radius: 0;
 }
 .custom-btn:hover {
 	background: linear-gradient(#fbfbfb, #f7f7f7);
-	outline: 1px solid #000;
-	color: #202020;
+	outline: 1px solid #f32938;
+	color: #f32938;
 }
 .custom-btn  {
 	color: #f0f0f0;
-	font-style: italic;
 }
 .home-link {
 	font-size: 1.8em;
@@ -118,7 +120,7 @@ hr {
 		padding: 3px;
 	}
 	path {
-		fill: #202020;
+		fill: #f32938;
 	}
 }
 .site-header {
@@ -147,6 +149,10 @@ hr {
 	font-size: 55px;
 	margin-bottom: 3rem;
 }
+.main-header img {
+	margin: 0 auto;
+	width: '100%';
+}
 .start-btns {
 	padding-bottom: 1rem;
 }
@@ -158,7 +164,7 @@ hr {
 }
 @media screen and (min-width: 767px) {
 	.index li a:hover {
-		background-color: #202020;
+		background-color: #f32938;
 		color: white;
 	}
 }
