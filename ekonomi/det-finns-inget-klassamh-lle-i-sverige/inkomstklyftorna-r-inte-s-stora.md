@@ -10,4 +10,4 @@ Nej, men de tar sig!
 
 Och lite trivia: Credit Suisses [Global Wealth Report 2014](https://publications.credit-suisse.com/tasks/render/file/?fileID=60931FDE-A2D2-F568-B041B58C5EA591A4) rapporterar att de rikaste 10% av Sveriges invånare äger 68,6% av alla tillgångar.
 
-(_Credit Suisse är en av världens största banker. Rapporten kommer från deras think tank och har släpps årligen sedan 2010. De tar fram den i samarbete med erkända forskare på området förmögenhet (e.x. proffesorerna [Jim Davies](http://economics.uwo.ca/people/faculty/davies.html) och  [Anthony Shorrocks](https://www.wider.unu.edu/expert/anthony-shorrocks))_)
+(_Credit Suisse är en av världens största banker. Rapporten kommer från deras think tank och har släpps årligen sedan 2010. De tar fram den i samarbete med erkända forskare på området förmögenhet, ex. profesorerna [Jim Davies](http://economics.uwo.ca/people/faculty/davies.html) och  [Anthony Shorrocks](https://www.wider.unu.edu/expert/anthony-shorrocks)_)
