@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Utförsäljningar
-sort: 3
+sort: 2
 ---
 
 
