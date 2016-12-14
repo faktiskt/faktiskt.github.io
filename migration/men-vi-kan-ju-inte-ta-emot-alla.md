@@ -2,7 +2,7 @@
 layout: post
 sort: 0
 published: true
-title: Men vi kan ju inte ta emot alla!
+title: '"Men vi kan ju inte ta emot alla!"'
 ---
 Nej, DET skulle nog va skitjobbigt. För enligt UNHCR så var 65 miljoner människor på flykt i vid 2015 års slut. (Det är många det). En annan siffra som lyfts fram är att 86% av världens flyktingar befinner sig i utvecklingsländer. Och c:a 1400 personer var tvungna att lämna sina hem VARJE timme under 2015.(Källa: [UNHCR](http://www.unhcr.org/figures-at-a-glance.html "UNHCR")).
 
