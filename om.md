@@ -7,11 +7,11 @@ published: true
 
 ## Vad har ni gjort?
 
-**Kort version:**
+### Kort version:
 
 Vi har googlat. Massor. Och försökt hitta källor som ger hyfsat rimliga svar på hur det ser ut i vissa vanliga samhällsfrågor. Och sen? Sen har vi skrivit ned våra tankar kring de siffror vi hittat. Utifrån vår ståndpunkt som någon form av vänster. Och ja – det här är ett hobbyprojekt som är helt obundet till allt och alla.
 
-**Länge version:**
+### Länge version:
 
 Vi tröttnade. På att julbord efter påskbord efter långbord hamna i diskussioner där någon farbror eller faster - likt ett orakel - väter pekfingret mot tungan, höjer det mot skyn och… KÄNNER… att Sveriges koldioxidutsläpp nog ändå minskat rätt markant på sistone. Eller… plötsligt bara… KÄNNER… att maktpositionerna i börsnoterade företag fördelas rätt jämt mellan män och kvinnor. Eller vad det nu kan vara. 
 
