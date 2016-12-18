@@ -18,3 +18,5 @@ A = Vi brakar på och skiter i vilket.
 B = Forskningen utvecklas i samma takt som hittills.
 
 2-gradersmålet = hit måste vi för att undvika kaoz.
+
+Så vad "forskarna" faktiskt verkar ha "forskat" fram är att vi nog måste komnsumera mindre. Hur tråkigt det än låter så här i juletider.
