@@ -7,7 +7,7 @@ sort: 5
 
 
 
-[Socialstyrelsen](http://docplayer.se/88518-Ojamna-villkor-for-halsa-och-vard-jamlikhetsperspektiv-pa-halsooch-sjukvarden.html "skillnader i vård") kollade lite på det här med vården. Och fann bland annat att:
+[Socialstyrelsen](http://docplayer.se/88518-Ojamna-villkor-for-halsa-och-vard-jamlikhetsperspektiv-pa-halsooch-sjukvarden.html "skillnader i vård") kollade lite på det här med vården. Och DE skrev på sina tangentbord att:
 
 - Kvinnor rapporterar mer än dubbelt så ofta som män att de blivit kränkta inom vården. 
 - Färre kvinnor än män får de läkemedel som rekommenderas enligt riktlinjerna, även om de har samma diagnos. 
