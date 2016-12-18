@@ -8,6 +8,6 @@ sort: 0
 
 
 
-Det är en svinbra inställning, tycker vi. Men trots att många av oss känner så, så verkar rasism onekligen vara ett utbrett problem. 
+En hedersvärd ansats! Men - trots att många av oss känner så, så verkar rasism onekligen vara ett utbrett problem. 
 
 Några exempel:
