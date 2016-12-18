@@ -53,10 +53,11 @@ hr {
 	-webkit-appearance: none;
    	-moz-appearance:    none;
    	appearance:         none;
-	font-size: 1.6em;
+	font-size: 1.5em;
 	border: none;
 	background: #f32938;
 	font-family: "Open Sans", sans-serif;
+	text-transform: uppercase;
 	font-weight: 700;
 	padding: 0.1em 0.2em 0.1em 0.2em;
 	width: 100%;
