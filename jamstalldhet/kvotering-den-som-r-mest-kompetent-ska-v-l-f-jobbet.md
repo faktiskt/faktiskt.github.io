@@ -13,7 +13,7 @@ Enligt [SCB s.32](http://www.scb.se/Statistik/_Publikationer/LE0201_2015B16_BR_X
 
 Så - givet att vi gick efter "kompetens" så borde ju snarare 63% av höjdarna vara kvinns? … Annars är det ju nästan MÄNNEN som kvoteras in?
 
-Den här Amerikanska [studien](http://www.jstor.org/stable/41763373) visar att både kvinnor och män favoriserar män – det spelar alltså marginell roll om det är en man eller kvinna som anställer. I den här studien fick:
+Den här amerikanska [studien](http://www.jstor.org/stable/41763373) visar att både kvinnor och män favoriserar män – det spelar alltså marginell roll om det är en man eller kvinna som anställer. I den här studien fick:
 
 - 127 professorer bedöma identiska CVn - där det enda som skiljde var könet. 
 - En kvinna bedömdes i genomsnitt vara värd en ingångslön på 26000 USD, medan den identiska  mannen bedömdes vara värd 30000 USD. En nätt skillnad på 4000 USD.
