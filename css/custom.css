@@ -63,12 +63,12 @@ hr {
 	border-radius: 0;
 }
 .custom-btn:hover {
-	background: linear-gradient(#fbfbfb, #f7f7f7);
+	background: #fff;
 	outline: 1px solid #f32938;
 	color: #f32938;
 }
 .custom-btn  {
-	color: #f0f0f0;
+	color: #fff;
 }
 .home-link {
 	font-size: 1.8em;
