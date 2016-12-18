@@ -183,16 +183,18 @@ hr {
 	.pages {
 		padding-left: 0px;
 	}
+	.custom-btn {
+	font-size: 1.1em;
+	}
 }
+
 img {
 	width: 65%;
 }
 .input-group {
 	width: 100%;
 }
-.custom-btn {
-	font-size: 1.1em;
-}
+
 /* removes inherited styles */
 .cstm-frm-cntrl {
 	-webkit-appearance: none;
