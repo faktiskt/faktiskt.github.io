@@ -7,4 +7,4 @@ sort: 2
 
 
 
-Är du säker på att du har frågat om allt? För här är några grejer som verkar beröra ganska många tjejer.
+Fa-AN va grymt! Och vi vill såklart att det är så. Men den enes bröd, etc. För vi hittade lite ogryma siffror. Som verkar beröra ganska många tjejer.
