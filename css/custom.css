@@ -76,6 +76,12 @@ hr {
 	line-height: 33px;
 	vertical-align:;
 }
+
+.home-link img {
+	width: 70%;
+	margin: 0 auto;
+}
+
 @media screen and (max-width: 767px) {
 	.mobile-header {
 		padding: 0.3em;
