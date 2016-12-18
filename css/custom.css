@@ -6,7 +6,7 @@
 body {
 	font-family: "Open Sans", sans-serif;
 	font-size: 16px;
-	background: url(/images/snow.png) #fff;
+	background: url(/images/snow.gif) #fff;
 	background-size: 375px 667px;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -72,6 +72,13 @@ hr {
 .custom-btn  {
 	color: #fff;
 }
+
+@media all and (max-width: 400px) {
+	.custom-btn {
+	font-size: 1.1em;
+	}
+}
+
 .home-link {
 	font-size: 1.8em;
 	font-style: italic;
@@ -80,7 +87,8 @@ hr {
 }
 
 .home-link img {
-	width: 70%;
+	width: 100%;
+	max-width: 320px;
 	margin: 0 auto;
 }
 
@@ -115,6 +123,9 @@ hr {
 .site-bar .site-title {
 	margin: 0 auto;
 	padding-left: 15px;
+}
+.site-bar .site-title img {
+	width: 100%;
 }
 @media all and (max-width: 767px) {
 	.site-nav {
@@ -184,15 +195,14 @@ hr {
 		padding-left: 0px;
 	}
 }
+
 img {
 	width: 65%;
 }
 .input-group {
 	width: 100%;
 }
-.custom-btn {
-	font-size: 1.1em;
-}
+
 /* removes inherited styles */
 .cstm-frm-cntrl {
 	-webkit-appearance: none;
