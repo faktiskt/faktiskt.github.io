@@ -5,7 +5,7 @@ title: '"Valfrihet gynnar alla"'
 sort: 0
 ---
 
-Mnja, här verkar forskarna faktiskt inte ens själva veta hur det ligger till.
+Asså, här verkar forskarna faktiskt inte ens själva veta hur det ligger till.
 
 I rapporten [Konkurrensens konsekvenser](http://www.sns.se/sites/default/files/konkurrensens_konsekvenser_pod_2.pdf) har ledande välfärdsforskare analyserat effekterna av konkurrens i produktionen av välfärdstjänster (asså typ vård, skola, omsorg etc.) Slutsatsen?
 
