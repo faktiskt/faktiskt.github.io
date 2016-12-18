@@ -7,11 +7,12 @@ body {
 	font-family: "Open Sans", sans-serif;
 	font-size: 16px;
 	background: url(/images/snow.png) #fff;
-	background-size: 325px 737px;
+	background-size: 375px 667px;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Open Sans", sans-serif;
 	color: #f32938;
+	font-weight: 700;
 }
 /* Initially targets all links, eventually styles only off-site href's */
 a {
@@ -53,22 +54,23 @@ hr {
 	-webkit-appearance: none;
    	-moz-appearance:    none;
    	appearance:         none;
-	font-size: 1.6em;
+	font-size: 1.5em;
 	border: none;
 	background: #f32938;
 	font-family: "Open Sans", sans-serif;
+	text-transform: uppercase;
 	font-weight: 700;
 	padding: 0.1em 0.2em 0.1em 0.2em;
 	width: 100%;
 	border-radius: 0;
 }
 .custom-btn:hover {
-	background: linear-gradient(#fbfbfb, #f7f7f7);
+	background: #fff;
 	outline: 1px solid #f32938;
 	color: #f32938;
 }
 .custom-btn  {
-	color: #f0f0f0;
+	color: #fff;
 }
 .home-link {
 	font-size: 1.8em;
@@ -76,6 +78,12 @@ hr {
 	line-height: 33px;
 	vertical-align:;
 }
+
+.home-link img {
+	width: 70%;
+	margin: 0 auto;
+}
+
 @media screen and (max-width: 767px) {
 	.mobile-header {
 		padding: 0.3em;
@@ -139,9 +147,9 @@ hr {
 	}
 }
 .main-block p {
-	font-size: 2.5rem;
-	line-height: 30px;
-	letter-spacing: -0.5px;
+	font-size: 1.6rem;
+	line-height: 150%;
+	font-weight: 500;
 }
 .main-header {
 	letter-spacing: -1px;
@@ -181,6 +189,9 @@ img {
 }
 .input-group {
 	width: 100%;
+}
+.custom-btn {
+	font-size: 1.1em;
 }
 /* removes inherited styles */
 .cstm-frm-cntrl {
