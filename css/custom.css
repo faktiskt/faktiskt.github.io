@@ -72,6 +72,13 @@ hr {
 .custom-btn  {
 	color: #fff;
 }
+
+@media all and (max-width: 400px) {
+	.custom-btn {
+	font-size: 1.1em;
+	}
+}
+
 .home-link {
 	font-size: 1.8em;
 	font-style: italic;
@@ -186,9 +193,6 @@ hr {
 	}
 	.pages {
 		padding-left: 0px;
-	}
-	.custom-btn {
-	font-size: 1.1em;
 	}
 }
 
