@@ -7,4 +7,4 @@ sort: 2
 
 
 
-Fa-AN va grymt! Och vi vill såklart att det är så. Men den enes bröd, etc. För vi hittade lite ogryma siffror. Som verkar beröra ganska många tjejer.
+Fa-AN va grymt! Och ni har pratat om allt? För vi hittade lite ogryma siffror. Som verkar beröra ganska många tjejer.
