@@ -21,6 +21,6 @@ En snabb liten topplista (från [UNHCR](http://www.unhcr.org/statistics/unhcrsta
 - Etiopien (736100)
 - Jordanien (664100)
 
-Men vi tar emot flest i EU? Per capita, ja! Hälsar [Migrationsverket](http://www.migrationsverket.se/Om-Migrationsverket/Fakta-om-migration/Migrationsverket---mitt-i-varlden-2015.html)
+Men vi tar emot flest i EU? Yes - per capita gör vi det enligt [Migrationsverket](http://www.migrationsverket.se/Om-Migrationsverket/Fakta-om-migration/Migrationsverket---mitt-i-varlden-2015.html)
 
 Men - EN spänstig tanke att ta med sig är ju med vilka länder man e g e n t l i g e n ska jämföra med? Om det är norge, finland, danmark – eller om det är de länder med lite mer sparsmakade resurser som nämns på listan ovan. Som då uppenbarligen tar emot långt fler än vad vi uppe i norr gör.  Sånt kan man dryfta över julsyltan!
