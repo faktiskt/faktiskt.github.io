@@ -5,7 +5,7 @@ title: Sjukdomar
 sort: 2
 ---
 
-Ett varmare klimat ökar också risken för smittspridning.[Myndigheten för Samhällsberedskap](https://www.msb.se/RibData/Filer/pdf/26173.pdf "MSB- Rapport - Klimatförändringarnas konsekvenser (s 17)") tror att vi ska bereda oss på att:
+Ett varmare klimat ökar också risken för smittspridning. [Myndigheten för Samhällsberedskap](https://www.msb.se/RibData/Filer/pdf/26173.pdf "MSB- Rapport - Klimatförändringarnas konsekvenser (s 17)") tror att vi ska bereda oss på att:
 
 - Helt nya sjukdomar och sjukdomsbärare kan komma in i landet.
 - De högre temperaturerna ökar risken för tillväxt av mikroorganismer i livsmedel och därigenom spridning av matöverförda sjukdomar.
