@@ -14,12 +14,12 @@ Enligt [Migrationsverket](http://www.migrationsverket.se/Om-Migrationsverket/Sta
 **Mjaha - så vilka tar egentligen emot ALLA då?**
 
 En snabb liten topplista (från [UNHCR](http://www.unhcr.org/statistics/unhcrstats/576408cd7/unhcr-global-trends-2015.html)) bjuder på dessa siffror:
-Turkiet (2,5 miljoner),
-Pakistan (1,6 miljoner), 
-Libanon (1,1 miljoner),  
-Iran (979400), 
-Etiopien (736100), 
-Jordanien (664100), 
+- Turkiet (2,5 miljoner),
+- Pakistan (1,6 miljoner), 
+- Libanon (1,1 miljoner),  
+- Iran (979400), 
+- Etiopien (736100), 
+- Jordanien (664100), 
 
 Men vi tar emot flest i EU? Per capita ja! (Enligt [Migrationsverket](http://www.migrationsverket.se/Om-Migrationsverket/Fakta-om-migration/Migrationsverket---mitt-i-varlden-2015.html))
 
