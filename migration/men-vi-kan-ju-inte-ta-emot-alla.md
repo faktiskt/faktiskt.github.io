@@ -16,7 +16,7 @@ Enligt [Migrationsverket](http://www.migrationsverket.se/Om-Migrationsverket/Sta
 En snabb liten topplista (från [UNHCR](http://www.unhcr.org/statistics/unhcrstats/576408cd7/unhcr-global-trends-2015.html)) bjuder på dessa siffror:<br>
 - Turkiet (2,5 miljoner) <br>
 - Pakistan (1,6 miljoner)<br> 
-- Libanon (1,1 miljoner)<br>  
+- Libanon (1,1 miljoner)<br>
 - Iran (979400)<br>
 - Etiopien (736100)<br>
 - Jordanien (664100)<br>
