@@ -6,7 +6,7 @@ title: Relativ fattigdom
 ---
 
 
-En definition av fattigdom som används av OECD är [relativ fattigdom](http://www.oecd-ilibrary.org/sites/factbook-2010-en/11/02/02/index.html?itemId=/content/chapter/factbook-2010-89-en). Enligt [OECD](http://www.oecd.org/social/inequality.htm "OECD - Inequality") lever 9% av Sveriges befolkning i relativ fattigdom.
+En definition av fattigdom som används av OECD är [relativ fattigdom](http://www.oecd-ilibrary.org/sites/factbook-2010-en/11/02/02/index.html?itemId=/content/chapter/factbook-2010-89-en). Enligt [OECD](http://www.oecd.org/social/inequality.htm "OECD - Inequality") lever 8,8% av Sveriges befolkning i relativ fattigdom.
 
 [OECD](http://www.oecd-ilibrary.org/sites/factbook-2010-en/11/02/02/index.html?itemId=/content/chapter/factbook-2010-89-en "OECD - Factbook") definierar relativ fattigdom som att man har en inkomst som ligger under hälften av medianinkomsten i landet.
 
