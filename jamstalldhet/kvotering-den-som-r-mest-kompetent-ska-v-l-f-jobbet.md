@@ -9,7 +9,7 @@ sort: 0
 
 Det låter väl rimligt? Det verkar dock inte funkar så.
 
-Enligt [SCB](http://www.scb.se/Statistik/_Publikationer/LE0201_2015B16_BR_X10BR1601.pdf "På tal om kvinnor och män s.32") har kvinnor högre betyg i både grundskolan och gymnasiet - och 63 procent av de som examineras från högskolan är kvinnor. Trots det här visar [SCB](http://www.scb.se/Statistik/_Publikationer/LE0201_2015B16_BR_X10BR1601.pdf "På tal om kvinnor och män s.98") att bara 5 procent av alla VD:ar i börsnoterade företag är kvinnor.
+Enligt [SCB](http://www.scb.se/Statistik/_Publikationer/LE0201_2015B16_BR_X10BR1601.pdf "På tal om kvinnor och män s.32") har kvinnor högre betyg i både grundskolan och gymnasiet - och 63 procent av de som examineras från högskolan är kvinnor. Trots det här visar [SCB](http://www.scb.se/Statistik/_Publikationer/LE0201_2015B16_BR_X10BR1601.pdf "På tal om kvinnor och män s.98") att bara fem procent av alla VD:ar i börsnoterade företag är kvinnor.
 
 Så - givet att vi gick efter "kompetens" så borde ju snarare 63 procent av höjdarna vara kvinns? … Annars är det ju nästan MÄNNEN som kvoteras in?
 
