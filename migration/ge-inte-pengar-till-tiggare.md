@@ -10,5 +10,4 @@ sort: 0
 
 
 Varå, att pengarna inte går till dem som tigger? <br><br>
-Jo, de verkar faktiskt göra det: <br>
-Det norska forskningsinstitutet [Fafo](http://fafo.no/images/pub/2015/954-innmat-trykk.pdf) undersökte 1269  ‘homeless street workers’ från Rumänien i Stockholm, Köpenhamn och Oslo. De fann _inga_ indikationer på att någon del av deras inkomster gavs till någon utanför familjen.
+Vi hittade en studie från det norska forskningsinstitutet [Fafo](http://fafo.no/images/pub/2015/954-innmat-trykk.pdf "Fafo - When poverty meets affluence"). (Och ja – det är bara en – men det verkar  vara den meststorskaliga studien som gjorts hittills). I studien intervjuades 1269 ‘homeless street workers’ från Rumänien i Stockholm, Köpenhamn och Oslo. De fann inga indikationer på att någon del av deras inkomster gavs till någon utanför familjen.
