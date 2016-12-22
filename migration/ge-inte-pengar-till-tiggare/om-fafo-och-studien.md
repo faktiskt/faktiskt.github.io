@@ -1,6 +1,6 @@
 ---
 layout: post
-sort: 6
+sort: 1
 published: true
 title: Om Fafo och studien
 ---
