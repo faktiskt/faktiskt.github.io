@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Hur ser nätverken ut?
-sort: 4
+sort: 5
 ---
 
 
